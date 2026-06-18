@@ -75,9 +75,3 @@ Shipment-Delivery-Prediction/
 └── README.md
 ```
 
-## Future Improvements
-
-* Real-time shipment tracking
-* Cloud deployment
-* Explainable AI integration
-* Automated model retraining
